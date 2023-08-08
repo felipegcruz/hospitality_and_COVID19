@@ -31,8 +31,6 @@ This repository contains an exploratory data analysis (EDA) project focused on u
 
 The project concludes with a comprehensive analysis of the COVID-19 impact on the British hospitality sector, offering insights into various facets of the industry's performance and adaptation strategies. The insights gained can inform strategic decision-making and policy formulation for stakeholders in the hospitality sector and beyond.
 
-For any inquiries or collaborations, feel free to reach out to [Your Name](mailto:your.email@example.com).
-
 ---
 
 _Disclaimer: The data and insights presented in this analysis are based on available sources and methodologies as of the project's completion date. The ongoing nature of the pandemic and potential updates to data may impact the accuracy of the analysis over time._
